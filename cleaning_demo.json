@@ -1,0 +1,11 @@
+{
+  "scope": "first chunk only",
+  "rows_before": 100000,
+  "rows_after": 99263,
+  "rows_removed_total": 737,
+  "rows_removed_per_rule": {
+    "null_passenger_count": 0,
+    "pickup_outside_january_2021_or_invalid": 16,
+    "fare_amount_less_than_or_equal_to_zero": 721
+  }
+}

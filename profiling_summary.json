@@ -1,0 +1,12 @@
+{
+  "rows_total": 1369765,
+  "chunk_size": 100000,
+  "quality_counts": {
+    "Pickup outside January 2021 or invalid": 24,
+    "fare_amount <= 0": 7411,
+    "trip_distance <= 0": 19952,
+    "passenger_count = 0": 26726,
+    "passenger_count is null": 98352,
+    "Exact duplicate rows (hash-based)": 0
+  }
+}
